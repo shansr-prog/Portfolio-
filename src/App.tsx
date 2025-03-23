@@ -170,7 +170,7 @@ function App() {
               <a href="https://linkedin.com/in/yourusername" className="text-gray-400 hover:text-gray-500">
                 <Linkedin className="w-6 h-6" />
               </a>
-              <a href="mailto:your.email@example.com" className="text-gray-400 hover:text-gray-500">
+              <a href="mailto:bdshan24@gmail.com" className="text-gray-400 hover:text-gray-500">
                 <Mail className="w-6 h-6" />
               </a>
             </div>
@@ -182,7 +182,7 @@ function App() {
       <footer className="bg-white">
         <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
           <p className="text-center text-gray-500">
-            © {new Date().getFullYear()} John Doe. All rights reserved.
+            © {new Date().getFullYear()} Md Shahin. All rights reserved.
           </p>
         </div>
       </footer>
