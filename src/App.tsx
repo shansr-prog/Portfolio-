@@ -182,7 +182,7 @@ function App() {
       <footer className="bg-white">
         <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
           <p className="text-center text-gray-500">
-            ©{new Date().getFullYear()} - 2024 <a href="https://shansr.netlify.app"> Md Shahin. </a> <br> <hr> </hr>All rights reserved.
+            © {new Date().getFullYear()} - 2024 <a href="https://shansr.netlify.app"> Md Shahin. </a> <br> <hr>All rights reserved.
           </p>
         </div>
       </footer>
