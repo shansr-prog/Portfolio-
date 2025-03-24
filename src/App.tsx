@@ -164,10 +164,10 @@ function App() {
               I'm always open to new opportunities and interesting projects.
             </p>
             <div className="mt-8 flex justify-center space-x-6">
-              <a href="https://github.com/yourusername" className="text-gray-400 hover:text-gray-500">
+              <a href="https://github.com/shansr-prog" className="text-gray-400 hover:text-gray-500">
                 <Github className="w-6 h-6" />
               </a>
-              <a href="https://linkedin.com/in/yourusername" className="text-gray-400 hover:text-gray-500">
+              <a href="https://www.linkedin.com/in/md-shahin-b6258b2a5" className="text-gray-400 hover:text-gray-500">
                 <Linkedin className="w-6 h-6" />
               </a>
               <a href="mailto:bdshan24@gmail.com" className="text-gray-400 hover:text-gray-500">
